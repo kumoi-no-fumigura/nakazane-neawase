@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/nakazane-neawase",
  "yomi": "びっちゅうのかみなかざねあそんのにょしねあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "物合（根合）",
+  "era": "康和2年（1100）5月5日",
+  "author": "備中守藤原仲実",
+  "desc": "備中守仲実の娘たちによる根合。菖蒲・盧橘・石竹などの題で、上総君らの女房と、源俊頼・仲実・顕仲・隆源が詠む。判者を置かず、座の人々の評を記す。"
+ },
  "editions": [
   {
    "pid": "1879502",
